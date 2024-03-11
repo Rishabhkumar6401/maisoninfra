@@ -754,7 +754,7 @@ ul {
     margin-right: 2px;
 }
 
-.property-box-2 .footer {
+/* .property-box-2 .footer {
     border-top: 1px solid #e5e5e5;
     padding: 12px 25px;
 }
@@ -795,7 +795,7 @@ ul {
     height: 50px;
     width: 50px;
     position: absolute;
-}
+} */
 
 .map-content-sidebar .property-box-2 .listing-badges .featured {
     left: -37px;
@@ -808,11 +808,11 @@ ul {
     left: 20px;
 }
 
-.property-box-2 .footer {
+/* .property-box-2 .footer {
     bottom: 0;
     z-index: 20;
     width: 100%;
-}
+} */
 
 .property-box-2 .fb {
     width: 97.55%;
@@ -1296,7 +1296,7 @@ ul {
 
 
 /** Lines area start **/
-
+/* 
 .lines {
     position: absolute;
     top: 0;
@@ -1370,7 +1370,7 @@ ul {
     100% {
         top: 110%;
     }
-}
+} */
 
 .sidebar-contact {
     position: fixed;
@@ -1909,7 +1909,7 @@ textarea.form-control {
 }
 
 .itawacta .callnow:hover {
-    color: #fff !important;
+    color: #000000 !important;
 }
 
 @media (max-width: 1400px) {
@@ -4192,4 +4192,7 @@ a.whatsapp_float {
     .menu-block1 {
         font-size: 14px;
     }
+}
+button:hover{
+    color: black !important;
 }
